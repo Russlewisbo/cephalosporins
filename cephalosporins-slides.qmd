@@ -52,7 +52,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 # Historical Overview {background-color="#b20e10"}
 
-## Discovery of cephalosporins <br> From Sardinian sewage to modern medicine
+## Discovery of cephalosporins: <br> From Sardinian sewage to modern medicine
 
 ::::: columns
 ::: {.column width="50%"}
