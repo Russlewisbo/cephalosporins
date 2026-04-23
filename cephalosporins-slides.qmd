@@ -13,7 +13,7 @@ format:
 bibliography: cephalosporins-references.bib
 ---
 
-## Cephalosporins and β/lactamase inhbitors {background-color="#b20e10"}
+## Cephalosporins and β/lactamase Inhibitors {background-color="#b20e10"}
 
 <br>
 
@@ -27,7 +27,7 @@ bibliography: cephalosporins-references.bib
 
 <center>
 
-![](cephalosporins-images/dmm_new.png){fig-align="center"}
+![](cephalosporins-images/dmm_new.png){fig-align="center" width="404"}
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)
 
@@ -50,13 +50,21 @@ After this presentation, you will be able to:
 
 ## Discovery of cephalosporins
 
-<br>
-
+::::: columns
+::: {.column width="50%"}
 **1945: Giuseppe Brotzu** discovers antimicrobial activity
 
--   Working in Sardinia, Italy
--   Isolated *Cephalosporin acremonium* from sewage outflow
--   Demonstrated activity against gram-positive AND gram-negative bacteria
+- Working in Sardinia, Italy
+- Isolated *Cephalosporin acremonium* from sewage outflow
+- Demonstrated activity against gram-positive AND gram-negative bacteria
+:::
+
+::: {.column width="50%"}
+![](cephalosporins-images/Giuseppebrotzu.gif)
+:::
+:::::
+
+<br>
 
 ::: callout-note
 ## Amazing fact
@@ -90,11 +98,11 @@ The development of cephalosporins parallels the evolution of bacterial resistanc
 
 Among the **most widely prescribed** antibiotic class due to:
 
--   Broad spectrum of activity
--   Low toxicity profile
--   Ease of administration
--   Favorable pharmacokinetics
--   Multiple routes (IV, IM, PO)
+- Broad spectrum of activity
+- Low toxicity profile
+- Ease of administration
+- Favorable pharmacokinetics
+- Multiple routes (IV, IM, PO)
 
 # Chemistry & Structure {background-color="#b20e10"}
 
@@ -110,13 +118,13 @@ Among the **most widely prescribed** antibiotic class due to:
 ::: {.column width="50%"}
 **Core structure:**
 
--   β-lactam ring fused to a 6-member dihydrothiazine ring
--   Starting material: 7-aminocephalosporanic acid (7-ACA)
+- β-lactam ring fused to a 6-member dihydrothiazine ring
+- Starting material: 7-aminocephalosporanic acid (7-ACA)
 
 **Key difference from penicillins:**
 
--   Penicillin: 5-member thiazolidine ring
--   Cephalosporin: 6-member dihydrothiazine ring
+- Penicillin: 5-member thiazolidine ring
+- Cephalosporin: 6-member dihydrothiazine ring
 :::
 :::::
 
@@ -131,7 +139,7 @@ The 6-member ring provides greater stability to β-lactamases compared to the 5-
 **Two key modification sites:**
 
 | Position       | Common Name | Effect on Drug                               |
-|------------------|------------------|-----------------------------------|
+|-------------------|-------------------|-----------------------------------|
 | C7 (acyl side) | **R1**      | Spectrum of activity; β-lactamase stability  |
 | C3             | **R2**      | Pharmacokinetics; Half-life; CNS penetration |
 
@@ -157,19 +165,19 @@ Understanding these modifications helps explain why different generations have d
 ::: {.column width="50%"}
 **α-Carbon modifications at C7:**
 
--   Hydroxyl group → Enhanced gram-negative (cefuroxime)
--   Methoxyimino group → 3rd generation spectrum
--   2-Aminothiazol group → 3rd/4th generation potency
+- Hydroxyl group → Enhanced gram-negative (cefuroxime)
+- Methoxyimino group → 3rd generation spectrum
+- 2-Aminothiazol group → 3rd/4th generation potency
 
 **Cephamycins**
 
--   Methoxy substitution at C7 → Cefoxitin, Cefotetan
+- Methoxy substitution at C7 → Cefoxitin, Cefotetan
 
--   Enhanced anaerobic coverage
+- Enhanced anaerobic coverage
 
--   Resistance to many β-lactamases
+- Resistance to many β-lactamases
 
--   BUT: Reduced gram-positive activity
+- BUT: Reduced gram-positive activity
 :::
 :::::
 
@@ -192,8 +200,8 @@ The cephamycins are technically different compounds but grouped with 2nd generat
 
 Methylthiotetrazole (MTT) at R2:
 
--   Coagulation abnormalities (vitamin K antagonism)
--   Disulfiram-like reactions
+- Coagulation abnormalities (vitamin K antagonism)
+- Disulfiram-like reactions
 
 Found in: Cefamandole, Cefotetan, Cefoperazone
 :::
@@ -242,15 +250,13 @@ Cephalosporin efficacy correlates with **T\>MIC** (Time drug concentration remai
 
 **Clinical implications:**
 
--   More frequent dosing OR
--   Extended/continuous infusions
--   Especially important for serious infections
+- More frequent dosing OR
+- Extended/continuous infusions
+- Especially important for serious infections
 
 ::: aside
 This is why prolonged-infusion strategies have become common for β-lactams in ICU settings.
 :::
-
-
 
 # Classification by Generation {background-color="#b20e10"}
 
@@ -278,14 +284,14 @@ This is a simplification - individual agents within generations vary. Always che
 
 **Available agents:**
 
--   **IV:** Cefazolin (workhorse)
--   **PO:** Cephalexin, Cefadroxil
+- **IV:** Cefazolin (workhorse)
+- **PO:** Cephalexin, Cefadroxil
 
 **Spectrum:**
 
--   Excellent: MSSA, Streptococci
--   Moderate: Some Enterobacterales
--   Poor: *H. influenzae*, *M. catarrhalis*, anaerobes
+- Excellent: MSSA, Streptococci
+- Moderate: Some Enterobacterales
+- Poor: *H. influenzae*, *M. catarrhalis*, anaerobes
 
 ::: callout-tip
 ## Clinical Pearl
@@ -305,13 +311,13 @@ First-generation agents remain essential despite their age. <br> Cefazolin is us
 
 1.  **Surgical prophylaxis** (cefazolin)
 
-    -   Cardiac, vascular, orthopedic surgery
-    -   Clean procedures
+    - Cardiac, vascular, orthopedic surgery
+    - Clean procedures
 
 2.  **Skin/soft tissue infections**
 
-    -   Cellulitis, erysipelas
-    -   MSSA abscesses
+    - Cellulitis, erysipelas
+    - MSSA abscesses
 
 3.  **MSSA bacteremia** (cefazolin now preferred to oxacillin/nafcillin)
 
@@ -327,15 +333,15 @@ For MSSA bacteremia, cefazolin may actually be preferred over nafcillin in some 
 
 **Available agents:**
 
--   **IV:** Cefuroxime, Cefoxitin*, Cefotetan*
--   **PO:** Cefuroxime axetil, Cefaclor, Cefprozil
+- **IV:** Cefuroxime, Cefoxitin*, Cefotetan*
+- **PO:** Cefuroxime axetil, Cefaclor, Cefprozil
 
 \*Cephamycins (technically different structure)
 
 **Enhanced coverage:**
 
--   Better *H. influenzae* activity
--   Cephamycins: *Bacteroides fragilis* coverage
+- Better *H. influenzae* activity
+- Cephamycins: *Bacteroides fragilis* coverage
 
 ::: notes
 Second-generation agents bridge the gap between 1st and 3rd generations. Cephamycins are valuable for mixed infections.
@@ -350,16 +356,16 @@ Second-generation agents bridge the gap between 1st and 3rd generations. Cephamy
 
 Unique features:
 
--   α-Methoxy group at C7
--   Activity against *B. fragilis* (50-80%)
--   Useful for intra-abdominal infections
--   Often used in OB/GYN procedures
+- α-Methoxy group at C7
+- Activity against *B. fragilis* (50-80%)
+- Useful for intra-abdominal infections
+- Often used in OB/GYN procedures
 :::
 
 **Limitations:**
 
--   Cefotetan: MTT side chain (coagulopathy risk)
--   Both: Limited activity vs. ESBL-producers
+- Cefotetan: MTT side chain (coagulopathy risk)
+- Both: Limited activity vs. ESBL-producers
 
 ::: notes
 Cefoxitin is often preferred over cefotetan due to the MTT side chain concerns with cefotetan.
@@ -371,19 +377,19 @@ Cefoxitin is often preferred over cefotetan due to the MTT side chain concerns w
 
 **Parenteral agents:**
 
--   Ceftriaxone (once daily - long half-life)
--   Cefotaxime (CNS penetration)
--   Ceftazidime (*Pseudomonas* activity)
+- Ceftriaxone (once daily - long half-life)
+- Cefotaxime (CNS penetration)
+- Ceftazidime (*Pseudomonas* activity)
 
 **Oral agents:**
 
--   Cefixime, Cefpodoxime, Cefdinir, Ceftibuten
+- Cefixime, Cefpodoxime, Cefdinir, Ceftibuten
 
 **Key features:**
 
--   Significantly enhanced gram-negative coverage
--   Most penetrate CNS with inflamed meninges
--   Reduced gram-positive activity (except ceftriaxone)
+- Significantly enhanced gram-negative coverage
+- Most penetrate CNS with inflamed meninges
+- Reduced gram-positive activity (except ceftriaxone)
 
 ::: notes
 Third-generation cephalosporins revolutionized treatment of serious gram-negative infections.
@@ -396,18 +402,18 @@ Third-generation cephalosporins revolutionized treatment of serious gram-negativ
 ::: callout-tip
 ## Why Ceftriaxone is Special
 
--   Half-life: **6-9 hours** → Once-daily dosing
--   **Biliary excretion** (40%) → No renal adjustment needed
--   Excellent CSF penetration
--   IM option available
+- Half-life: **6-9 hours** → Once-daily dosing
+- **Biliary excretion** (40%) → No renal adjustment needed
+- Excellent CSF penetration
+- IM option available
 :::
 
 **Common uses:**
 
--   Community-acquired pneumonia
--   Bacterial meningitis
--   Gonorrhea
--   Lyme disease
+- Community-acquired pneumonia
+- Bacterial meningitis
+- Gonorrhea
+- Lyme disease
 
 ::: notes
 Ceftriaxone's pharmacokinetics make it ideal for outpatient parenteral therapy and resource-limited settings.
@@ -422,15 +428,15 @@ Ceftriaxone's pharmacokinetics make it ideal for outpatient parenteral therapy a
 
 Ceftazidime has **antipseudomonal** activity BUT:
 
--   Poor gram-positive coverage (especially Streptococci)
--   Should NOT be used for streptococcal or staphylococcal infections
+- Poor gram-positive coverage (especially Streptococci)
+- Should NOT be used for streptococcal or staphylococcal infections
 :::
 
 **Best uses:**
 
--   *Pseudomonas* infections
--   Nosocomial gram-negative infections
--   Febrile neutropenia (combination)
+- *Pseudomonas* infections
+- Nosocomial gram-negative infections
+- Febrile neutropenia (combination)
 
 ::: notes
 The structural modification that gives ceftazidime antipseudomonal activity removes gram-positive activity.
@@ -442,11 +448,11 @@ The structural modification that gives ceftazidime antipseudomonal activity remo
 
 **Key advantages:**
 
--   Zwitterionic structure → Rapid outer membrane penetration
--   Enhanced stability against AmpC β-lactamases
--   Maintains *Pseudomonas* activity
--   BETTER gram-positive coverage than ceftazidime
--   Good CNS penetration
+- Zwitterionic structure → Rapid outer membrane penetration
+- Enhanced stability against AmpC β-lactamases
+- Maintains *Pseudomonas* activity
+- BETTER gram-positive coverage than ceftazidime
+- Good CNS penetration
 
 **Dosing:** 1-2 g IV q8-12h
 
@@ -466,14 +472,14 @@ Ceftaroline binds to **PBP2A** → Activity against MRSA
 
 **FDA-approved indications:**
 
--   Acute bacterial skin and skin structure infections (ABSSSI)
--   Community-acquired bacterial pneumonia (CABP)
+- Acute bacterial skin and skin structure infections (ABSSSI)
+- Community-acquired bacterial pneumonia (CABP)
 
 **Limitations:**
 
--   **NO** activity against *Pseudomonas*
--   **NO** activity against ESBL-producers
--   Parenteral only (600 mg IV q12h)
+- **NO** activity against *Pseudomonas*
+- **NO** activity against ESBL-producers
+- Parenteral only (600 mg IV q12h)
 
 ::: notes
 Ceftaroline fills a niche for MRSA infections when glycopeptides aren't ideal, but has limited gram-negative coverage.
@@ -506,14 +512,14 @@ This table provides a quick reference for spectrum comparisons.
 
 **The problem: β-lactamase production**
 
--   ESBLs: Hydrolyze 3rd generation cephalosporins
--   AmpC: Chromosomal or plasmid-mediated
--   Carbapenemases: KPC, MBL, OXA-48
+- ESBLs: Hydrolyze 3rd generation cephalosporins
+- AmpC: Chromosomal or plasmid-mediated
+- Carbapenemases: KPC, MBL, OXA-48
 
 **The solution: β-lactamase inhibitors**
 
--   Protect the cephalosporin from hydrolysis
--   Extend spectrum to resistant organisms
+- Protect the cephalosporin from hydrolysis
+- Extend spectrum to resistant organisms
 
 ::: notes
 The emergence of multidrug-resistant gram-negatives necessitated development of these combinations.
@@ -527,18 +533,18 @@ The emergence of multidrug-resistant gram-negatives necessitated development of 
 
 **Key features:**
 
--   Excellent activity against *P. aeruginosa* (including MDR)
--   Active against ESBL-producing Enterobacterales
--   Intrinsic AmpC stability
+- Excellent activity against *P. aeruginosa* (including MDR)
+- Active against ESBL-producing Enterobacterales
+- Intrinsic AmpC stability
 
 ::: callout-warning
 ## Limitations
 
 **NO activity against:**
 
--   KPC-producing organisms
--   Metallo-β-lactamase (MBL) producers
--   OXA-48 producers
+- KPC-producing organisms
+- Metallo-β-lactamase (MBL) producers
+- OXA-48 producers
 :::
 
 **Dosing:** 1.5-3 g IV q8h
@@ -555,10 +561,10 @@ Ceftolozane-tazobactam is particularly valuable for MDR Pseudomonas when suscept
 
 **Avibactam inhibits:**
 
--   KPC (Class A carbapenemases)
--   OXA-48 (Class D)
--   AmpC (Class C)
--   ESBLs
+- KPC (Class A carbapenemases)
+- OXA-48 (Class D)
+- AmpC (Class C)
+- ESBLs
 
 ::: callout-important
 ## Critical Limitation
@@ -581,17 +587,17 @@ Ceftazidime-avibactam has become a cornerstone for KPC-producing CRE infections.
 ::: callout-tip
 ## "Trojan Horse" Mechanism
 
--   Contains catechol moiety that binds iron
--   Hijacks bacterial iron transport systems
--   Delivers cephalosporin directly into cell
+- Contains catechol moiety that binds iron
+- Hijacks bacterial iron transport systems
+- Delivers cephalosporin directly into cell
 :::
 
 **Unique spectrum:**
 
--   Active against **MBL-producers** (NDM, VIM, IMP)
--   *Acinetobacter baumannii* complex
--   *Stenotrophomonas maltophilia*
--   Carbapenem-resistant Enterobacterales
+- Active against **MBL-producers** (NDM, VIM, IMP)
+- *Acinetobacter baumannii* complex
+- *Stenotrophomonas maltophilia*
+- Carbapenem-resistant Enterobacterales
 
 **Dosing:** 2 g IV q8h (3-hour infusion)
 
@@ -668,16 +674,16 @@ Ceftriaxone stands out with its long half-life allowing once-daily dosing.
 ::: callout-important
 ## Exception: Ceftriaxone
 
--   40% biliary excretion
--   **No dose adjustment** needed for renal impairment
--   Avoid in severe liver disease with renal impairment
+- 40% biliary excretion
+- **No dose adjustment** needed for renal impairment
+- Avoid in severe liver disease with renal impairment
 :::
 
 **Practical implications:**
 
--   Dose adjust most cephalosporins in renal impairment
--   Check creatinine clearance before prescribing
--   Give supplemental doses after hemodialysis
+- Dose adjust most cephalosporins in renal impairment
+- Check creatinine clearance before prescribing
+- Give supplemental doses after hemodialysis
 
 ::: notes
 Ceftriaxone's dual elimination pathway makes it uniquely versatile in renal impairment.
@@ -689,15 +695,15 @@ Ceftriaxone's dual elimination pathway makes it uniquely versatile in renal impa
 
 **Cephalosporins with good CSF penetration (inflamed meninges):**
 
--   Ceftriaxone: 10-20% of serum
--   Cefotaxime: 10-30% of serum
--   Ceftazidime: 20-40% of serum
--   Cefepime: 10-25% of serum
+- Ceftriaxone: 10-20% of serum
+- Cefotaxime: 10-30% of serum
+- Ceftazidime: 20-40% of serum
+- Cefepime: 10-25% of serum
 
 **Poor CNS penetration:**
 
--   First-generation cephalosporins
--   Second-generation cephalosporins
+- First-generation cephalosporins
+- Second-generation cephalosporins
 
 ::: notes
 CNS penetration requires inflamed meninges for most agents - don't use for prophylaxis of CNS infections.
@@ -740,14 +746,14 @@ Actual IgE-mediated cross-reactivity: **1-2%**
 
 **Key points:**
 
--   Cross-reactivity related to **R1 side chain similarity**
--   1st generation: Higher risk (similar side chains to aminopenicillins)
--   3rd/4th generation: Very low risk
+- Cross-reactivity related to **R1 side chain similarity**
+- 1st generation: Higher risk (similar side chains to aminopenicillins)
+- 3rd/4th generation: Very low risk
 
 **Approach:**
 
--   Assess penicillin allergy history carefully
--   Most patients can safely receive cephalosporins
+- Assess penicillin allergy history carefully
+- Most patients can safely receive cephalosporins
 
 ::: notes
 Many patients labeled "penicillin allergic" can safely receive cephalosporins, especially 3rd/4th generation agents.
@@ -760,10 +766,10 @@ Many patients labeled "penicillin allergic" can safely receive cephalosporins, e
 ::: callout-caution
 ## Ceftriaxone: Biliary Sludge
 
--   Calcium-ceftriaxone precipitates in gallbladder
--   Occurs in **20-46%** of patients
--   Usually asymptomatic
--   Resolves 10-60 days after stopping
+- Calcium-ceftriaxone precipitates in gallbladder
+- Occurs in **20-46%** of patients
+- Usually asymptomatic
+- Resolves 10-60 days after stopping
 
 **Avoid:** Mixing with calcium in neonates \<28 days
 :::
@@ -778,15 +784,15 @@ Biliary sludge is more common in children and with prolonged therapy. Usually no
 
 **Risk factors:**
 
--   Renal impairment (decreased clearance)
--   High doses
--   Particularly with **cefepime**
+- Renal impairment (decreased clearance)
+- High doses
+- Particularly with **cefepime**
 
 **Manifestations:**
 
--   Encephalopathy
--   Myoclonus
--   Seizures
+- Encephalopathy
+- Myoclonus
+- Seizures
 
 ::: callout-warning
 ## Cefepime Neurotoxicity
@@ -804,16 +810,16 @@ Cefepime-associated encephalopathy can be subtle. Always consider it in patients
 
 **Coagulation abnormalities (MTT side chain):**
 
--   Hypoprothrombinemia
--   Vitamin K antagonism
--   Affects: Cefotetan, Cefoperazone
+- Hypoprothrombinemia
+- Vitamin K antagonism
+- Affects: Cefotetan, Cefoperazone
 
 **Other hematologic effects:**
 
--   Eosinophilia (1-10%)
--   Neutropenia (\<1%, with prolonged use)
--   Positive Coombs test (3%)
--   Hemolytic anemia (rare)
+- Eosinophilia (1-10%)
+- Neutropenia (\<1%, with prolonged use)
+- Positive Coombs test (3%)
+- Hemolytic anemia (rare)
 
 ::: notes
 Consider vitamin K supplementation with MTT-containing cephalosporins, especially in malnourished patients.
@@ -829,13 +835,13 @@ Consider vitamin K supplementation with MTT-containing cephalosporins, especiall
 
 **Cefazolin is first-line for:**
 
--   Cardiac surgery
--   Vascular surgery
--   Orthopedic procedures (joint replacement, spine)
--   Head and neck surgery (with metronidazole)
--   Hysterectomy
--   Cesarean section
--   GI/biliary surgery (clean-contaminated)
+- Cardiac surgery
+- Vascular surgery
+- Orthopedic procedures (joint replacement, spine)
+- Head and neck surgery (with metronidazole)
+- Hysterectomy
+- Cesarean section
+- GI/biliary surgery (clean-contaminated)
 
 **Dosing:** 2 g IV (3 g if \>120 kg) within 60 min of incision
 
@@ -849,13 +855,13 @@ Appropriate surgical prophylaxis is one of the most impactful antimicrobial stew
 
 **Inpatient, non-ICU:**
 
--   Ceftriaxone 1-2 g IV q24h + Azithromycin
--   OR Respiratory fluoroquinolone monotherapy
+- Ceftriaxone 1-2 g IV q24h + Azithromycin
+- OR Respiratory fluoroquinolone monotherapy
 
 **Inpatient, ICU:**
 
--   Ceftriaxone 2 g IV q24h + Azithromycin
--   OR Ceftriaxone + Respiratory fluoroquinolone
+- Ceftriaxone 2 g IV q24h + Azithromycin
+- OR Ceftriaxone + Respiratory fluoroquinolone
 
 ::: notes
 Ceftriaxone-based regimens are the backbone of CAP treatment per ATS/IDSA guidelines.
@@ -867,9 +873,9 @@ Ceftriaxone-based regimens are the backbone of CAP treatment per ATS/IDSA guidel
 
 **Empiric therapy:**
 
--   Ceftriaxone 2 g IV q12h (or Cefotaxime 2 g IV q4-6h)
--   PLUS Vancomycin (for resistant *S. pneumoniae*)
--   ± Ampicillin (if *Listeria* risk)
+- Ceftriaxone 2 g IV q12h (or Cefotaxime 2 g IV q4-6h)
+- PLUS Vancomycin (for resistant *S. pneumoniae*)
+- ± Ampicillin (if *Listeria* risk)
 
 ::: callout-important
 ## Critical Point
@@ -887,14 +893,14 @@ Always add ampicillin for patients at risk for Listeria (elderly, immunocompromi
 
 **Antipseudomonal cephalosporin options:**
 
--   Cefepime 2 g IV q8h
--   Ceftazidime 2 g IV q8h
--   Ceftolozane-tazobactam 3 g IV q8h
+- Cefepime 2 g IV q8h
+- Ceftazidime 2 g IV q8h
+- Ceftolozane-tazobactam 3 g IV q8h
 
 **Add coverage based on risk factors:**
 
--   MRSA risk → Add vancomycin or linezolid
--   MDR risk → Consider combination therapy
+- MRSA risk → Add vancomycin or linezolid
+- MDR risk → Consider combination therapy
 
 ::: notes
 Agent selection should be guided by local resistance patterns and patient risk factors.
@@ -906,14 +912,14 @@ Agent selection should be guided by local resistance patterns and patient risk f
 
 **Community-acquired:**
 
--   Ceftriaxone + Metronidazole
--   Cefoxitin or Cefotetan alone (mild-moderate)
+- Ceftriaxone + Metronidazole
+- Cefoxitin or Cefotetan alone (mild-moderate)
 
 **Healthcare-associated/Resistant pathogens:**
 
--   Ceftolozane-tazobactam + Metronidazole
--   Ceftazidime-avibactam + Metronidazole
--   Cefepime + Metronidazole
+- Ceftolozane-tazobactam + Metronidazole
+- Ceftazidime-avibactam + Metronidazole
+- Cefepime + Metronidazole
 
 ::: notes
 Anaerobic coverage is essential for intra-abdominal infections - metronidazole is often added.
@@ -925,15 +931,15 @@ Anaerobic coverage is essential for intra-abdominal infections - metronidazole i
 
 **Uncomplicated cystitis:**
 
--   Cephalexin 500 mg PO q6h (alternative agent)
--   Not first-line due to collateral damage concerns
+- Cephalexin 500 mg PO q6h (alternative agent)
+- Not first-line due to collateral damage concerns
 
 **Complicated UTI/Pyelonephritis:**
 
--   Ceftriaxone 1 g IV q24h
--   Cefepime 1 g IV q8h
--   Ceftolozane-tazobactam 1.5 g IV q8h
--   Ceftazidime-avibactam 2.5 g IV q8h
+- Ceftriaxone 1 g IV q24h
+- Cefepime 1 g IV q8h
+- Ceftolozane-tazobactam 1.5 g IV q8h
+- Ceftazidime-avibactam 2.5 g IV q8h
 
 ::: notes
 Reserve broader-spectrum agents for complicated UTI or resistant organisms.
@@ -970,15 +976,15 @@ Understanding β-lactamase classification helps predict which agents will be eff
 
 **Extended-Spectrum β-Lactamases (ESBLs):**
 
--   Hydrolyze 3rd generation cephalosporins
--   Common types: CTX-M, SHV, TEM variants
--   Often co-resistant to fluoroquinolones
+- Hydrolyze 3rd generation cephalosporins
+- Common types: CTX-M, SHV, TEM variants
+- Often co-resistant to fluoroquinolones
 
 **Treatment options:**
 
--   Carbapenems (traditional)
--   Ceftolozane-tazobactam
--   Ceftazidime-avibactam
+- Carbapenems (traditional)
+- Ceftolozane-tazobactam
+- Ceftazidime-avibactam
 
 ::: notes
 ESBLs have become extremely common, especially CTX-M-15. Empiric therapy must account for local prevalence.
@@ -1012,19 +1018,19 @@ Rapid molecular diagnostics can identify carbapenemase type and guide therapy.
 
 **"SPACE" organisms with inducible AmpC:**
 
--   **S**erratia
--   **P**seudomonas
--   **A**cinetobacter
--   **C**itrobacter (freundii)
--   **E**nterobacter
+- **S**erratia
+- **P**seudomonas
+- **A**cinetobacter
+- **C**itrobacter (freundii)
+- **E**nterobacter
 
 **Risk:** Resistance emergence during therapy with 3rd gen cephalosporins
 
 **Preferred agents:**
 
--   Cefepime (stable to AmpC)
--   Ceftazidime-avibactam
--   Carbapenems
+- Cefepime (stable to AmpC)
+- Ceftazidime-avibactam
+- Carbapenems
 
 ::: notes
 Avoid ceftriaxone monotherapy for serious Enterobacter infections - resistance can emerge on therapy.
@@ -1040,14 +1046,14 @@ Avoid ceftriaxone monotherapy for serious Enterobacter infections - resistance c
 
 **Pregnancy category:** Most cephalosporins are Category B
 
--   No evidence of teratogenicity
--   Cross placenta
--   Used routinely in obstetric practice
+- No evidence of teratogenicity
+- Cross placenta
+- Used routinely in obstetric practice
 
 **Lactation:**
 
--   Excreted in small amounts in breast milk
--   Generally considered compatible with breastfeeding
+- Excreted in small amounts in breast milk
+- Generally considered compatible with breastfeeding
 
 ::: notes
 Cephalosporins are among the safest antibiotics in pregnancy.
@@ -1079,14 +1085,14 @@ Pediatric dosing is weight-based. Always verify maximum doses don't exceed adult
 
 **Options:**
 
--   **Extended infusion:** 3-4 hour infusion
--   **Continuous infusion:** 24-hour infusion (requires stability data)
+- **Extended infusion:** 3-4 hour infusion
+- **Continuous infusion:** 24-hour infusion (requires stability data)
 
 **Best evidence for:**
 
--   Cefepime
--   Ceftazidime
--   Seriously ill patients / ICU
+- Cefepime
+- Ceftazidime
+- Seriously ill patients / ICU
 
 ::: notes
 Prolonged infusion strategies can improve outcomes in critically ill patients and may allow dose reduction.
@@ -1131,11 +1137,11 @@ These practical points will guide clinical decision-making.
 
 Cephalosporins remain essential antibiotics. Selection should be based on:
 
--   Likely pathogens
--   Local resistance patterns
--   Site of infection
--   Patient-specific factors (allergies, renal function)
--   Available formulations (PO vs IV)
+- Likely pathogens
+- Local resistance patterns
+- Site of infection
+- Patient-specific factors (allergies, renal function)
+- Available formulations (PO vs IV)
 :::
 
 ::: notes
@@ -1152,8 +1158,8 @@ Antimicrobial stewardship principles should guide all antibiotic prescribing.
 
 **Guidelines:**
 
--   IDSA Practice Guidelines (various infections)
--   Sanford Guide to Antimicrobial Therapy
+- IDSA Practice Guidelines (various infections)
+- Sanford Guide to Antimicrobial Therapy
 
 **Clinical Pearls to Remember:**
 
