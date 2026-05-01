@@ -22,7 +22,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Cephalosporins and <br> Cephalosporin-β-Lactamase Inhibitors {background-color="#b20e10"}
 
-
 <br> <br>
 
 <center>
@@ -235,7 +234,9 @@ The MTT side chain drugs require vitamin K supplementation and alcohol avoidance
 :::
 
 ::: {.column width="50%"}
-{{< video cephalosporins-images/pcn_moa.mp4 >}}
+<video src="cephalosporins-images/pcn_moa_small.mp4" width="800" autoplay loop muted playsinline data-autoplay>
+
+</video>
 :::
 :::::
 
@@ -334,7 +335,7 @@ First-generation agents remain essential despite their age. <br> Cefazolin is us
 
 ## Second generation cephalosporins {.smaller}
 
-![](cephalosporins-images/2nd%20gen.png){fig-align="center"}
+![](cephalosporins-images/2nd%20gen.png){fig-align="center" width="600"}
 
 **Available agents:**
 
@@ -346,10 +347,13 @@ First-generation agents remain essential despite their age. <br> Cefazolin is us
 **Enhanced coverage:**
 
 - Better *H. influenzae* activity
+
 - Cephamycins: *Bacteroides fragilis* coverage
 
+  <br> <br>
+
 ::: aside
-Second-generation agents bridge the gap between 1st and 3rd generations. <br>Cephamycins are valuable for mixed infections. Panel A shows cefuroxime, which includes a methoxyimino group and a syn-oriented furan ring. Panel B features cefotetan, which contains a tetrazine ring system and a distinctive disulfide-containing side chain with a carbamoyl group and a hydroxyacetyl moiety. Panel C displays cefoxitin, which includes a 7-alpha-methoxy group and a thiophene ring connected by a methylene bridge. Panel D shows cefprozil, which features a para-hydroxyphenyl side chain with an aminomethyl group and a vinyl moiety. Each cephalosporin structure includes unique side chains at positions three and seven.
+Panel A shows cefuroxime, which includes a methoxyimino group and a syn-oriented furan ring. Panel B features cefotetan, which contains a tetrazine ring system and a distinctive disulfide-containing side chain with a carbamoyl group and a hydroxyacetyl moiety. Panel C displays cefoxitin, which includes a 7-alpha-methoxy group and a thiophene ring connected by a methylene bridge. Panel D shows cefprozil, which features a para-hydroxyphenyl side chain with an aminomethyl group and a vinyl moiety. Each cephalosporin structure includes unique side chains at positions three and seven.
 :::
 
 ## Second generation: Cephamycin focus
@@ -486,7 +490,7 @@ Cefepime offers a broader spectrum than ceftazidime while maintaining antipseudo
 
 ## Fifth generation: Ceftaroline
 
-::::: columns
+:::: columns
 ::: {.column width="50%"}
 **FDA-approved indications:**
 
@@ -500,10 +504,8 @@ Cefepime offers a broader spectrum than ceftazidime while maintaining antipseudo
 - Parenteral only (600 mg IV q12h)
 :::
 
-::: {.column width="50%"}
-![](cephalosporins-images/5th_gen.png){fig-align="center"}
-:::
-:::::
+![](cephalosporins-images/5th_gen.png){fig-align="center" width="450"}
+::::
 
 <br>
 
@@ -523,14 +525,14 @@ Ceftaroline fills a niche for MRSA infections when glycopeptides aren't ideal, b
 
 <br>
 
-| Feature          | 1st Gen | 3rd Gen | 4th Gen | 5th Gen |
-|------------------|---------|---------|---------|---------|
-| MSSA             | ++++    | ++      | +++     | +++     |
-| MRSA             | \-      | \-      | \-      | ++++    |
-| Streptococcus    | ++++    | +++     | +++     | +++     |
-| Enterobacterales | \+      | +++     | ++++    | ++      |
-| *Pseudomonas*    | \-      | +/-     | ++      | \-      |
-| Anaerobes        | \-      | +/-     | +/-     | \-      |
+| Feature          | 1st Gen | 2nd Gen | 3rd Gen | 4th Gen | 5th Gen |
+|------------------|---------|---------|---------|---------|---------|
+| MSSA             | ++++    | +++     | ++      | +++     | +++     |
+| MRSA             | \-      | \-      | \-      | \-      | ++++    |
+| Streptococcus    | ++++    | +++     | +++     | +++     | +++     |
+| Enterobacterales | \+      | ++      | +++     | ++++    | ++      |
+| *Pseudomonas*    | \-      | \-      | +/-     | ++      | \-      |
+| Anaerobes        | \-      | +/-     | +/-     | +/-     | \-      |
 
 ::: notes
 This table provides a quick reference for spectrum comparisons.
@@ -755,7 +757,6 @@ CNS penetration requires inflamed meninges for most agents. The belief of poor p
 
 # Adverse Effects {background-color="#b20e10"}
 
-
 # Adverse Effects {background-color="#b20e10"}
 
 ## Overview of safety profile
@@ -779,16 +780,12 @@ Most common adverse effects:
 Serious adverse effects are uncommon. Most reactions are mild and self-limiting.
 :::
 
-
 ## Penicillin cross-reactivity
-
-## Penicillin cross-Reactivity
-
 
 <br>
 
 ::: callout-warning
-## The True Risk
+## The true risk
 
 Historical quote of **10% cross-reactivity is WRONG**
 
@@ -1161,7 +1158,6 @@ Pediatric dosing is weight-based. Always verify maximum doses don't exceed adult
 Prolonged infusion strategies can improve outcomes in critically ill patients and may allow dose reduction.
 :::
 
-
 # Summary {background-color="#b20e10"}
 
 ## Key takeaways (Part 1)
@@ -1195,7 +1191,6 @@ These practical points will guide clinical decision-making.
 <br>
 
 ::: callout-important
-
 ## Bottom line
 
 Cephalosporins remain essential antibiotics. Selection should be based on:
@@ -1206,9 +1201,6 @@ Cephalosporins remain essential antibiotics. Selection should be based on:
 - Patient-specific factors (allergies, renal function)
 - Available formulations (PO vs IV)
 :::
-
-
-
 
 ## Key resources
 
@@ -1226,8 +1218,6 @@ Cephalosporins remain essential antibiotics. Selection should be based on:
 3.  Check local resistance patterns before empiric therapy
 4.  Know your β-lactamases!
 5.  Most "penicillin allergies" allow cephalosporin use
-
-
 
 # Appendix: Reference Tables {background-color="#b20e10"}
 
@@ -1260,9 +1250,3 @@ Cephalosporins remain essential antibiotics. Selection should be based on:
 | 4th        | Cefepime    | Broad spectrum; *Pseudomonas*          |
 | 5th        | Ceftaroline | MRSA activity                          |
 | BLI        | Various     | Overcomes β-lactamases                 |
-
-
-
-
-
-
