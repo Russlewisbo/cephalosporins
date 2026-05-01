@@ -31,7 +31,7 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <center>
 
-![](cephalosporins-images/dmm_new.png){fig-align="center" width="404"}
+![](cephalosporins-images/dmm_new.png){fig-align="center" width="350"}
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.idpadova.com](https://padovaid.com/)
 
@@ -303,7 +303,7 @@ This is a simplification - individual agents within generations vary.
 - Poor: *H. influenzae*, *M. catarrhalis*, anaerobes
 
 ::: callout-tip
-## Clinical Pearl
+## Clinical pearl
 
 Cefazolin is the **#1 drug for surgical prophylaxis**
 :::
@@ -440,7 +440,7 @@ Ceftriaxone's pharmacokinetics make it ideal for outpatient parenteral therapy a
 <br>
 
 ::: callout-warning
-## Unique Spectrum
+## Unique dpectrum
 
 Ceftazidime has **antipseudomonal** activity BUT:
 
@@ -611,7 +611,7 @@ Ceftolozane-tazobactam is particularly valuable for MDR Pseudomonas when suscept
 - ESBLs
 
 ::: callout-important
-## Critical Limitation
+## Critical limitation
 
 **NO activity against MBL producers** (NDM, VIM, IMP)
 
@@ -755,7 +755,10 @@ CNS penetration requires inflamed meninges for most agents. The belief of poor p
 
 # Adverse Effects {background-color="#b20e10"}
 
-## Overview of Safety Profile
+
+# Adverse Effects {background-color="#b20e10"}
+
+## Overview of safety profile
 
 <br>
 
@@ -776,7 +779,11 @@ Most common adverse effects:
 Serious adverse effects are uncommon. Most reactions are mild and self-limiting.
 :::
 
+
 ## Penicillin cross-reactivity
+
+## Penicillin cross-Reactivity
+
 
 <br>
 
@@ -808,7 +815,7 @@ Many patients labeled "penicillin allergic" can safely receive cephalosporins, e
 <br>
 
 ::: callout-caution
-## Ceftriaxone: Biliary Sludge
+## Ceftriaxone: biliary sludge
 
 - Calcium-ceftriaxone precipitates in gallbladder
 - Occurs in **20-46%** of patients
@@ -920,7 +927,7 @@ Ceftriaxone-based regimens are the backbone of CAP treatment per ATS/IDSA guidel
 - ± Ampicillin (if *Listeria* risk)
 
 ::: callout-important
-## Critical Point
+## Critical point
 
 3rd generation cephalosporins penetrate CSF well with inflamed meninges but are NOT effective against *Listeria*!
 :::
@@ -967,7 +974,7 @@ Agent selection should be guided by local resistance patterns and patient risk f
 Anaerobic coverage is essential for intra-abdominal infections - metronidazole is often added.
 :::
 
-## Urinary Tract Infections
+## Urinary tract infections
 
 <br>
 
@@ -1003,7 +1010,7 @@ Reserve broader-spectrum agents for complicated UTI or resistant organisms.
 <br> <br>
 
 ::: callout-important
-## Key Point
+## Key point
 
 Metallo-β-lactamases (Class B) are NOT inhibited by avibactam or tazobactam. Only cefiderocol maintains activity.
 :::
@@ -1028,7 +1035,7 @@ Understanding β-lactamase classification helps predict which agents will be eff
 - Ceftolozane-tazobactam
 - Ceftazidime-avibactam
 
-::: notes
+::: aside
 ESBLs have become extremely common, especially CTX-M-15. Empiric therapy must account for local prevalence.
 :::
 
@@ -1045,12 +1052,12 @@ ESBLs have become extremely common, especially CTX-M-15. Empiric therapy must ac
 | MBL (NDM, VIM) | Cefiderocol           |
 
 ::: callout-tip
-## Clinical Pearl
+## Clinical pearl
 
 Know your local epidemiology! KPC predominates in some regions, MBL in others.
 :::
 
-::: notes
+::: aside
 Rapid molecular diagnostics can identify carbapenemase type and guide therapy.
 :::
 
@@ -1153,7 +1160,6 @@ Pediatric dosing is weight-based. Always verify maximum doses don't exceed adult
 ::: aside
 Prolonged infusion strategies can improve outcomes in critically ill patients and may allow dose reduction.
 :::
-
 
 
 # Summary {background-color="#b20e10"}

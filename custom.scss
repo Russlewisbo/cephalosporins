@@ -1,9 +1,15 @@
 /*-- scss:defaults --*/
 
 // fonts
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');
 
 $font-family-sans-serif: 'IBM Plex Sans', Helvetica, Arial, sans-serif !default;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+$font-family-sans-serif: 'Jost', Helvetica, Arial, sans-serif !default;
+>>>>>>> 45b513c (Add note on Brotzu funding and center-align image)
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
 $presentation-font-size-root: 24px !default;
