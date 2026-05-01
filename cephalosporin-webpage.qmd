@@ -174,7 +174,9 @@ Different cephalosporins have varying affinities for different PBPs, which influ
 :::
 
 ::: {.column width="50%"}
-{{< video cephalosporins-images/pcn_moa.mp4 >}}
+<video src="cephalosporins-images/pcn_moa_small.mp4" width="400" autoplay loop muted playsinline data-autoplay>
+
+</video>
 :::
 :::::
 
